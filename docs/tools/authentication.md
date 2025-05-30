@@ -536,7 +536,7 @@ except Exception as e:
     === "Tools and Agent"
 
          ```py title="tools_and_agent.py"
-         --8<-- "examples/python/snippets/tools/auth/agent_cli.py"
+         --8<-- "examples/python/snippets/tools/auth/tools_and_agent.py"
          ```
     === "Agent CLI"
 
